@@ -15,3 +15,5 @@ Model Accuracy
 2.Decision Tree       - Accuracy Score 57%
 
 3.Random forest       - Accuracy Score 65%
+
+Resource : https://www.kaggle.com/datasets/saurabhtayal/diabetic-patients-readmission-prediction
